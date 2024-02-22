@@ -1,0 +1,30 @@
+:root {
+  --cor-principal: cornflowerblue;
+  --cor-background-card-principal: #f6f6f6;
+  --cor-body: #f3f4f6;
+}
+
+.esq {
+  background-color: white;
+  max-width: 540px;
+}
+
+.definicoes {
+  max-width: 554px;
+}
+
+.mudanca-body {
+  background-color: var(--cor-body);
+}
+
+.mudancas-margin-r {
+  margin-right: 35px;
+}
+
+.mundacas-margin-l {
+  margin-left: 35px;
+}
+
+.table-modificacoes {
+  display: none;
+}
